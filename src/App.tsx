@@ -1,6 +1,3 @@
-// src/App.js
-import React from "react";
-
 import Hero from "./components/Hero";
 import StorySection from "./components/StorySection";
 import ComparisonSection from "./components/ComparisonSection";
